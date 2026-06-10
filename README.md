@@ -27,6 +27,10 @@ A short stealth-heist game built in Unity where the player infiltrates a bank, a
 * **Unity**
 * **C#**
 
+## Note
+
+* Play the Game in **"800*600"**
+
 ## Screenshots
 
 ![MainMenu](image-1.png)
